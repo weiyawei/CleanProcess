@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">System acceleration</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear"> clear </string>
+    <string name="process"> process, release </string>
+    <string name="memory">memory</string>
+</resources>
